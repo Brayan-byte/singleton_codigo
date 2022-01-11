@@ -1,0 +1,2 @@
+module Patron_singlenton {
+}
